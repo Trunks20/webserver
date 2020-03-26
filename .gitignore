@@ -1,0 +1,18 @@
+# Target directories.
+target/
+
+# Eclipse configuration.
+.classpath
+.project
+.settings/
+
+# IntelliJ IDEA configuration.
+.idea/
+
+
+# Netbeans configuration.
+/nbproject/
+/dist/
+/build/
+manifest.mf
+build.xml
